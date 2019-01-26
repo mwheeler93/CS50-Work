@@ -1,10 +1,10 @@
 ul {
-  color: purple
+  color: purple;
 }
 
 #header  {
   text-align: center;
-  color: green
+  color: green;
 }
 
 .body1 {
@@ -12,9 +12,15 @@ ul {
 }
 
 * {
-  background-color: yellow
+  background-color: yellow;
 }
 
 ol {
-  color: red
+  color: red;
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: lavender;
+  }
 }
