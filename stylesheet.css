@@ -1,0 +1,20 @@
+ul {
+  color: purple
+}
+
+#header  {
+  text-align: center;
+  color: green
+}
+
+.body1 {
+  text-decoration: line-through;
+}
+
+* {
+  background-color: yellow
+}
+
+ol {
+  color: red
+}
